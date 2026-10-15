@@ -1,0 +1,9 @@
+# X 資料封存（含個人資料，絕不上傳）
+*.js
+data/
+
+# Python / PyCharm / macOS
+__pycache__/
+.venv/
+.idea/
+.DS_Store
